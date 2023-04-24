@@ -42,7 +42,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -139,7 +139,175 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: strokedivers0001_0
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1509
+        width: 609
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6c7ddf5b12db748aaabdb381d7e74b
+      internalID: 2025384447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strokedivers0001_1
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1527
+        width: 556
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b221dfb3f0af07b45a959137d9cfbb79
+      internalID: 710503900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strokedivers0001_2
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 1438
+        width: 482
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf403b2982bdc54e99fae7962145bac
+      internalID: -1534167295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strokedivers0001_3
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1100
+        width: 349
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f73275ddd2c3047af105aed9631d67
+      internalID: 1427729760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strokedivers0001_4
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 886
+        width: 631
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e679ea679f9d64d99525955ac8c8bc
+      internalID: -1823177750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strokedivers0001_5
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 247
+        width: 134
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42d90caa18229e4f961cde57acc3fdd
+      internalID: -1789627872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strokedivers0001_6
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 334
+        width: 664
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959a31d54f115cf42b044241e3712749
+      internalID: -507801219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strokedivers0001_7
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 254
+        width: 549
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e869bcdfd06ac540a74521f252ae063
+      internalID: -1695218954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -150,7 +318,15 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      strokedivers0001_0: 2025384447
+      strokedivers0001_1: 710503900
+      strokedivers0001_2: -1534167295
+      strokedivers0001_3: 1427729760
+      strokedivers0001_4: -1823177750
+      strokedivers0001_5: -1789627872
+      strokedivers0001_6: -507801219
+      strokedivers0001_7: -1695218954
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
